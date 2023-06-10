@@ -1,0 +1,46 @@
+nav{
+    color: blue;
+    text-align :left;  
+
+}   
+   img{ border-radius:25%;  
+     height: 350px;
+    width: 250px;
+    padding: 10px;
+}
+div.absolute 
+{position:center;
+button:10px;
+width : 100%;
+border :radius 3pxsolid#8AC007
+ }
+ .container{display:flexbox;
+justify-content:safe;
+
+}
+h3{width: 100%;
+    color: rgb(15, 13, 14);
+    text-align: center;
+}
+button {
+    background-color: #4CAF50; /* Green */
+    border: purple;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 20%;
+    }
+    span.submit{
+        display: inline;
+    width: 30px;
+    margin: 5px;
+height: 30px;
+padding: 25px;
+border-radius: 10%;
+background-color:rgb(80, 74, 163); border-inline-style: solid;
+border-inline-color: pink;
+
+}
